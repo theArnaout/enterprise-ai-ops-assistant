@@ -1,0 +1,10 @@
+# Agent and LLM
+langchain>=0.3.0
+langchain-openai>=0.2.0
+
+# AWS (Athena)
+boto3>=1.34.0
+
+# Streamlit demo
+streamlit>=1.28.0
+pandas>=2.0.0
